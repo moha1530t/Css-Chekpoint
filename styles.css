@@ -1,0 +1,36 @@
+nav {
+    background: #504f50;
+    padding: 15px;
+    display: inline;
+    justify-content: center;
+    word-spacing: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #f8f9fa;
+ 
+    margin: 0 30px ;
+    font-size: 20px;
+    
+
+}
+nav a:hover{
+    color: yellow;
+}
+
+
+.title-2  {
+    text-align: center;
+    margin: 50px 0;
+    color: #343a40;
+    font-size: 50px;
+
+}
+div {
+    margin: 50px 5%;
+    padding: 20px;
+    background: darkcyan;
+ 
+    border-radius: 8px;
+}
